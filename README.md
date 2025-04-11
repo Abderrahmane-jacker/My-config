@@ -8,9 +8,8 @@
 
 <br>
 
-![](assets/fetch.png)<br/><br/>
-![](assets/startpage.png)<br/><br/>
-![](assets/windhawk.png)<br/><br/>
+![](assets/banner.png)<br/><br/>
+![](assets/Screen.png)<br/><br/>
 
 
 <div align="center">
@@ -75,14 +74,21 @@ A battle-tested collection of dotfiles and configurations to help you:
 
 <hr/>
 
-## 🌸 Core System Info
+## 🎮 Ricing Components
 
-- **OS:** [Windows 11](https://www.microsoft.com/en-in/windows/windows-11) 🪟
-- **WM:** [Komorebic](https://github.com/LGUG2Z/komorebi) ✨
-- **Shell:** [powershell](https://learn.microsoft.com/en-us/powershell/)
-- **Panel:** [YASB](https://github.com/amnweb/yasb) ❄️
-- **App Launcher:** [Flow launcher](https://www.flowlauncher.com/) 🚀
 
+| Component | Emoji | Description | 
+|-----------|-------|-------------|
+| **[komorebic](https://github.com/LGUG2Z/komorebi)** | 🪟 | Tiling window manager for Windows (like i3 for Linux) | 
+| **[YASB](https://github.com/denBot/yasb)** | ❄️ | Yet Another Startpage - Beautiful browser homepage | 
+| **Windows Terminal** | >_ | Fully customized terminal experience |
+| **PowerShell** | 🐚 | Optimized shell configuration with aliases | 
+| **Oh My Posh** | 🎨 | Custom prompt theme with git status | 
+| **fastfetch** | ⚙️ | Minimal system info display | 
+| **Flow Launcher** | 🚀 | Spotlight-style app launcher | 
+| **Win11 Visuals** | 🦅 | Themed Start/Taskbar/Notification Center | 
+
+You can find other links above in <a href="#🔧 Featured Tools"><kbd> <br> 🔧 🔧 Featured Tools<br> </kbd></a>&ensp;&ensp;
 <hr/>
 
 ### ℹ️ Whole System Info
