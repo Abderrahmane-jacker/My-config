@@ -1,7 +1,6 @@
 # 🖥️ System Configuration Files  
 
 ![Banner Image](Readme/main.png)  
-*Example: Replace with your actual banner image*  
 
 This repository stores configuration files for various system tools and utilities, ensuring a consistent setup across environments.  
 
@@ -9,7 +8,7 @@ This repository stores configuration files for various system tools and utilitie
 
 | Tool Preview | Description |  
 |--------------|-------------|  
-| ![fastfetch](https://via.placeholder.com/400x200.png?text=fastfetch+Preview) | `fastfetch` in action |  
+| ![fastfetch](Readme/Screen.png) | `fastfetch` in action |  
 | ![ohmyposh](https://via.placeholder.com/400x200.png?text=ohmyposh+Prompt) | Custom Oh My Posh prompt |  
 
 *(Replace placeholder links with actual screenshots)*  
