@@ -1,6 +1,6 @@
 # 🖥️ System Configuration Files  
 
-![Banner Image](https://via.placeholder.com/800x200.png?text=System+Tools+Configuration)  
+![Banner Image](Readme/main.png)  
 *Example: Replace with your actual banner image*  
 
 This repository stores configuration files for various system tools and utilities, ensuring a consistent setup across environments.  
