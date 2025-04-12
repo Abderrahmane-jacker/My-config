@@ -96,7 +96,7 @@ Here is all the information about my setup:
 | 📚 Entry                           	 | ✨ App                  |
 |----------------------------------------|--------------------------|
 | **OS** 				 | [Windows 11](https://www.microsoft.com/en-in/windows/windows-11) |
-| **Window Manager** 			 |  [Komorebic]((https://github.com/LGUG2Z/komorebi)) [⚙️](https://github.com/Abderrahmane-jacker/My-config/tree/main/komorebi) |
+| **Window Manager** 			 |  [Komorebic](https://github.com/LGUG2Z/komorebi) [⚙️](https://github.com/Abderrahmane-jacker/My-config/tree/main/komorebi) |
 | **Bar** 				 |  [YASB](https://github.com/amnweb/yasb) [⚙️]((https://github.com/Abderrahmane-jacker/My-config/tree/main/yasb)) |
 | **Application Launcher** 		 | [Flow Launcher](https://www.flowlauncher.com/) [⚙️](https://github.com/Abderrahmane-jacker/My-config/tree/main/FlowLauncher) |
 | **Mods** 				 |  [Windhawk](https://windhawk.net/) [⚙️](https://github.com/Abderrahmane-jacker/My-config/tree/main/windhawk) |
@@ -115,9 +115,9 @@ Here is all the information about my setup:
 | 📚 Entry                           	 | ✨ App                  |
 |----------------------------------------|--------------------------|
 | **Fallback Text Editor**               | [VSCode](https://code.visualstudio.com/) |
-| **Music Player**                       | 💖 [Spotify](https://open.spotify.com/) (patched with [Spicetify](https://spicetify.app/)) |
-| **Web Browser**               	 | 💖 [brave-Browser](https://brave.com/) |
-| **Note Taking App**                    | 💖 [notion](https://www.notion.com/) |
+| **Music Player**                       |  [Spotify](https://open.spotify.com/) (patched with [Spicetify](https://spicetify.app/)) |
+| **Web Browser**               	 |  [brave-Browser](https://brave.com/) |
+| **Note Taking App**                    |  [notion](https://www.notion.com/) |
 | **File Manager**                       | [File Explorer](https://www.microsoft.com/en-us/windows/tips/file-explorer) |
  
 
