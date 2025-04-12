@@ -9,17 +9,10 @@
 <br>
 
 ![](assets/banner.png)<br/><br/>
-![](assets/Screen.png)<br/><br/>
+![](assets/fastfetch.png)<br/><br/>
+![](assets/vscode1.png)<br/><br/>
+![](assets/windh.png)<br/><br/>
 
-
-<div align="center">
-<p>
-<a href="https://github.com/ashish0kumar/windots/stargazers"><img src="https://img.shields.io/github/stars/ashish0kumar/windots?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=C9CBFF&labelColor=302D41" alt="stars"><a>&nbsp;&nbsp;
-<a href="https://github.com/ashish0kumar/windots/"><img src="https://img.shields.io/github/repo-size/ashish0kumar/windots?style=for-the-badge&logo=hyprland&logoColor=f9e2af&label=Size&labelColor=302D41&color=f9e2af" alt="REPO SIZE"></a>&nbsp;&nbsp;
-<a href="https://github.com/ashish0kumar/windots/commits/main/"><img src="https://img.shields.io/github/last-commit/ashish0kumar/windots?style=for-the-badge&logo=github&logoColor=eba0ac&label=Last%20Commit&labelColor=302D41&color=eba0ac" alt="Last Commit"></a>&nbsp;&nbsp;
-<a href="https://github.com/ashish0kumar/windots/LICENSE"><img src="https://img.shields.io/github/license/ashish0kumar/windots?style=for-the-badge&logo=&color=CBA6F7&logoColor=CBA6F7&labelColor=302D41" alt="LICENSE"></a>&nbsp;&nbsp;
-</p>
-</div>
 
 <h2 id="about">🌷 About</h2>
 
@@ -41,16 +34,17 @@ A battle-tested collection of dotfiles and configurations to help you:
 
 ## 🔧 Featured Tools
 
-| Tool        | Badges | Description | Installation |
-|-------------|--------|-------------|--------------|
-| **[fastfetch](https://github.com/fastfetch-cli/fastfetch)** | ![GitHub Stars](https://img.shields.io/github/stars/fastfetch-cli/fastfetch) ![Version](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/fastfetch-cli/fastfetch/releases/latest&label=version&query=tag_name) | neofetch on steroids - shows system info in style | `winget install fastfetch` |
-| **[Oh My Posh](https://ohmyposh.dev/)** | ![Downloads](https://img.shields.io/powershellgallery/dt/oh-my-posh) ![Themes](https://img.shields.io/badge/themes-100+-blueviolet) | The ultimate prompt customization engine | `winget install JanDeDobbeleer.OhMyPosh` |
-| **[Yash](https://github.com/yash-shell/yash)** | ![Active](https://img.shields.io/badge/maintained%3F-yes-success) ![Shell](https://img.shields.io/badge/shell-zsh%2Fbash%2Ffish-informational) | Hybrid shell with UNIX-like experience | `scoop install yash` |
-| **[whkd](https://github.com/ritschmaster/whkd)** | ![Hotkeys](https://img.shields.io/badge/hotkeys-fully%20configurable-red) ![License](https://img.shields.io/badge/license-MIT-green) | Global hotkey daemon for Windows | `cargo install whkd` |
+| Tool | Badge | Description | Key Feature | Install |
+|------|-------|-------------|-------------|---------|
+| **[YASB](https://github.com/denBot/yasb)** <br>❄️ | ![Customizable](https://img.shields.io/badge/widgets-fully%20configurable-blue) ![Themes](https://img.shields.io/badge/themes-20+-brightgreen) | Beautiful browser startpage with widgets | Live weather, search, bookmarks | `git clone https://github.com/denBot/yasb.git` |
+| **[Oh My Posh](https://ohmyposh.dev/)** <br>🎨 | ![Themes](https://img.shields.io/badge/themes-200+-purple) ![Stars](https://img.shields.io/github/stars/JanDeDobbeleer/oh-my-posh) | Ultimate terminal prompt engine | Real-time git status, icons | `winget install oh-my-posh` |
+| **[komorebi](https://github.com/LGUG2Z/komorebi)** <br>🪟 | ![Active](https://img.shields.io/badge/actively%20developed-yes-success) | Tiling WM for Windows | i3-like keybindings | `scoop install komorebi` |
+| **[fastfetch](https://github.com/fastfetch-cli/fastfetch)** <br>⚙️ | ![Fast](https://img.shields.io/badge/speed-0.1s%20boot-yellowgreen) | System info tool | Minimalist, themable | `winget install fastfetch` |
+| **[Flow Launcher](https://www.flowlauncher.com/)** <br>🚀 | ![Plugins](https://img.shields.io/badge/plugins-100+-orange) | App launcher | Alfred alternative | `scoop install flow-launcher` |
 
 ## 🔧 Key Features Table
 
-| Feature          | fastfetch | Oh My Posh | Yash | whkd |
+| Feature          | fastfetch | Oh My Posh | Yasb | whkd |
 |------------------|-----------|------------|------|------|
 | Windows Support  | ✅        | ✅         | ✅   | ✅   |
 | Linux Support    | ✅        | ✅         | ✅   | ❌   |
@@ -88,7 +82,7 @@ A battle-tested collection of dotfiles and configurations to help you:
 | **Flow Launcher** | 🚀 | Spotlight-style app launcher | 
 | **Win11 Visuals** | 🦅 | Themed Start/Taskbar/Notification Center | 
 
-You can find other links above in <a href="#🔧 Featured Tools"><kbd> <br> 🔧 🔧 Featured Tools<br> </kbd></a>&ensp;&ensp;
+You can find other links above in <b>🔧 Key Features Table</b>
 <hr/>
 
 ### ℹ️ Whole System Info
@@ -102,8 +96,8 @@ Here is all the information about my setup:
 | 📚 Entry                           	 | ✨ App                  |
 |----------------------------------------|--------------------------|
 | **OS** 				 | [Windows 11](https://www.microsoft.com/en-in/windows/windows-11) |
-| **Window Manager** 			 | 💖 [Komorebic]((https://github.com/LGUG2Z/komorebi)) [⚙️](https://github.com/ashish0kumar/windots/blob/master/.config/glazewm/config.yaml) |
-| **Bar** 				 | 💖 [YASB](https://github.com/amnweb/yasb) [⚙️](https://github.com/ashish0kumar/windots/blob/master/.config/yasb/) |
+| **Window Manager** 			 | 💖 [Komorebic]((https://github.com/LGUG2Z/komorebi)) [⚙️](https://github.com/Abderrahmane-jacker/My-config/tree/main/komorebi) |
+| **Bar** 				 | 💖 [YASB](https://github.com/amnweb/yasb) [⚙️]((https://github.com/Abderrahmane-jacker/My-config/tree/main/yasb)) |
 | **Application Launcher** 		 | [Flow Launcher](https://www.flowlauncher.com/) [⚙️](https://github.com/ashish0kumar/windots/blob/main/.config/FlowLauncher/Settings.json) |
 | **Mods** 				 | 💖 [Windhawk](https://windhawk.net/) [⚙️](https://github.com/ashish0kumar/windots/blob/main/.config/winddhawk/) |
 
@@ -144,11 +138,11 @@ Here is all the information about my setup:
 ### 🪟 Komorebic
 
 > [!NOTE]  
-> This setup is compatible with the latest version of **GlazeWM** but **does not use Zebar**. Instead, it uses **YASB** for the bar.
+> This setup is compatible with the latest version of **komorebi** but **does not use Zebar**. Instead, it uses **YASB** for the bar.
 
-- **Install** [**Komorebic**](https://github.com/LGUG2Z/komorebi).
+- **Install** [**Komorebi**](https://github.com/LGUG2Z/komorebi).
 
-- [`My-config/`](.con) → `%USERPROFILE%\.glzr\glazewm\config.yaml`
+- [`My-config/komorebi/komorebic.json`](.con) → `%USERPROFILE%\.glzr\glazewm\config.yaml`
 
 - **Restart Komorebic** for the changes to take effect.
 
@@ -157,7 +151,7 @@ Here is all the information about my setup:
 > [!NOTE]
 > Make sure you have a Nerd Font installed for proper icon rendering. I use **JetBrainsMono Nerd Font**, so if you are using a different Nerd Font, update the fonts in the YASB `styles.css` accordingly.
 
-- [`My-config/`](./yasb) → `%USERPROFILE%\.config\yasb\`
+- [`My-config/yasb/`](./yasb) → `%USERPROFILE%\.config\yasb\`
 
 - **Restart YASB** for the changes to take effect.
 
@@ -165,7 +159,7 @@ Here is all the information about my setup:
 
 - **Install** [**Flow Launcher**](https://www.flowlauncher.com/)
 
-- [`flowmana`](.config/FlowLauncher/settings.json) → `%APPDATA%\FlowLauncher\Settings\Settings.json`
+- [`My-config/FlowLauncher/settings.json`](./FlowLauncher/settings.json) → `%APPDATA%\FlowLauncher\Settings\Settings.json`
 
 - **Restart Flow Launcher**
 
@@ -182,13 +176,14 @@ Here is all the information about my setup:
 
 ### 🐚 PowerShell
 
-- [`myconfig/`](.config/WindowsPowershell/Microsoft.PowerShell_profile.ps1) → `%USERPROFILE%\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`
+- [`myconfig/`](./WindowsPowershell/Microsoft.PowerShell_profile.ps1) → `%USERPROFILE%\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`
 
 - Restart PowerShell to apply the changes.
 
 ### 🎨 Oh My Posh
 
-- [`myconfig`](ohmyposh) → `%USERPROFILE%\.config\ohmyposh\zen.toml`
+- [`myconfig`](./ohmyposh/zen.toml) → `%USERPROFILE%\.config\ohmyposh\zen.toml`
+- if you want to use my theme use [`myconfig/ohmyposh/1_shell.omp.json`](./ohmyposh/1_shell.omp.json) instead of zen.toml
 
 - **Optional Step:** Skip this if you applied my PowerShell config.
 	- I have already included the command to set the theme in the PowerShell profile, so there's no need to do it manually. The following command is automatically applied when PowerShell starts:
@@ -212,7 +207,9 @@ winget install fastfetch
 
 ## ⌨️ komorebic keybindings 
 
-You can always change these in your `komorebic.json`
+You can always change these in your `whkdrc`
+if you want to change komorebi behaviour change `./komorebi/komorebi.json`
+
 
 | Keys                                                                   | Action                                                          |
 |------------------------------------------------------------------------|-----------------------------------------------------------------|
@@ -235,23 +232,23 @@ You can always change these in your `komorebic.json`
 
 | **Browser on brave and cmatrix, cbonsai scripts** |
 |-------------------------------------------------------|
-| ![](assets/unixporn.png) |
+| ![](assets/komo.png) |
 
 | **GUI Text Editor** |
 |-------------------------------------------------------|
-| ![](assets/vscode.png) |
+| ![](assets/vscode2.png) |
 
 | **Topbar menu and TUI System Monitor** |
 |-------------------------------------------------------|
-| ![](assets/btop.png) | ![](assets/) |
+| ![](assets/sys.png) | ![](assets/) |
 
 | **Start Menu, Taskbar and Notification Center** |
 |-------------------------------------------------------|
-| ![](assets/windhawk.png) |
+| ![](assets/windh.png) |
 
 | **, tty-clock, sl and asciiquarium** |
 |-------------------------------------------------------|
-| ![](assets/cal_clock.png) |
+| ![](assets/tty.png) |
 
 | **Music Player and CLI Music Visualiser** |
 |-------------------------------------------------------|
@@ -267,11 +264,11 @@ You can always change these in your `komorebic.json`
 
 <h2 id="credits">🎉 ‎Credits</h2>
 
-Big **thanks** [ashisk]((https://github.com/ashish0kumar)) for inspiring me and helping me.
+- Big **thanks** to [**ashisk**](https://github.com/ashish0kumar) for inspiring me and helping me.
 
 I wanna point out some resources that helped me the most with the setup:
 
-- [**komorebic**](https://github.com/glzr-io/glazewm) for providing an incredible **tiling window manager** experience that enhances my workflow and productivity ✨
+- [**komorebic**](https://github.com/LGUG2Z/komorebi) for providing an incredible **tiling window manager** experience that enhances my workflow and productivity ✨
 - [**YASB**](https://github.com/amnweb/yasb) for a **feature-rich and customizable status bar** that perfectly complements my setup 🚀
 - [**lunar-os**](https://github.com/lunar-os/windowsdesktop2) for the **Windhawk configs** 🦅
 
