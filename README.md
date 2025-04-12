@@ -96,18 +96,18 @@ Here is all the information about my setup:
 | 📚 Entry                           	 | ✨ App                  |
 |----------------------------------------|--------------------------|
 | **OS** 				 | [Windows 11](https://www.microsoft.com/en-in/windows/windows-11) |
-| **Window Manager** 			 | 💖 [Komorebic]((https://github.com/LGUG2Z/komorebi)) [⚙️](https://github.com/Abderrahmane-jacker/My-config/tree/main/komorebi) |
-| **Bar** 				 | 💖 [YASB](https://github.com/amnweb/yasb) [⚙️]((https://github.com/Abderrahmane-jacker/My-config/tree/main/yasb)) |
-| **Application Launcher** 		 | [Flow Launcher](https://www.flowlauncher.com/) [⚙️](https://github.com/ashish0kumar/windots/blob/main/.config/FlowLauncher/Settings.json) |
-| **Mods** 				 | 💖 [Windhawk](https://windhawk.net/) [⚙️](https://github.com/ashish0kumar/windots/blob/main/.config/winddhawk/) |
+| **Window Manager** 			 |  [Komorebic]((https://github.com/LGUG2Z/komorebi)) [⚙️](https://github.com/Abderrahmane-jacker/My-config/tree/main/komorebi) |
+| **Bar** 				 |  [YASB](https://github.com/amnweb/yasb) [⚙️]((https://github.com/Abderrahmane-jacker/My-config/tree/main/yasb)) |
+| **Application Launcher** 		 | [Flow Launcher](https://www.flowlauncher.com/) [⚙️](https://github.com/Abderrahmane-jacker/My-config/tree/main/FlowLauncher) |
+| **Mods** 				 |  [Windhawk](https://windhawk.net/) [⚙️](https://github.com/Abderrahmane-jacker/My-config/tree/main/windhawk) |
 
 #### 🖥️ CLI/TUI Apps (Configs for these can be found in this repo: [**dotfiles**](https://github.com/ashish0kumar/dotfiles))
 
 | 📚 Entry                           	 | ✨ App                  |
 |----------------------------------------|--------------------------|
-| **Shell**                              | [pwsh](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_pwsh?view=powershell-7.4) [⚙️](https://github.com/ashish0kumar/windots/blob/main/.config/WindowsPowershell/Microsoft.PowerShell_profile.ps1) |
+| **Shell**                              | [pwsh](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_pwsh?view=powershell-7.4) [⚙️](https://github.com/Abderrahmane-jacker/My-config/tree/main/WindowsPowershell) |
 | **Shell Prompt**                       | [ohmyposh](https://ohmyposh.dev/) [⚙️]
-| **System Fetch**                       | [fastfetch](https://github.com/fastfetch-cli/fastfetch) [⚙️](https://github.com/ashish0kumar/dotfiles/blob/master/.config/fastfetch/config.jsonc) |
+| **System Fetch**                       | [fastfetch](https://github.com/fastfetch-cli/fastfetch) [⚙️](https://github.com/Abderrahmane-jacker/My-config/tree/main/fastfetch) |
  
 
 #### 🖱️ GUI Apps
@@ -142,7 +142,7 @@ Here is all the information about my setup:
 
 - **Install** [**Komorebi**](https://github.com/LGUG2Z/komorebi).
 
-- [`My-config/komorebi/komorebic.json`](.con) → `%USERPROFILE%\.glzr\glazewm\config.yaml`
+- [`My-config/komorebi/komorebic.json`](./komorebi/komorebi.json) → `%USERPROFILE%\komorebi.json`
 
 - **Restart Komorebic** for the changes to take effect.
 
@@ -176,7 +176,7 @@ Here is all the information about my setup:
 
 ### 🐚 PowerShell
 
-- [`myconfig/`](./WindowsPowershell/Microsoft.PowerShell_profile.ps1) → `%USERPROFILE%\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`
+- [`myconfig/WindowsPowershell/Microsoft.PowerShell_profile.ps1`](./WindowsPowershell/Microsoft.PowerShell_profile.ps1) → `%USERPROFILE%\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`
 
 - Restart PowerShell to apply the changes.
 
