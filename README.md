@@ -106,7 +106,7 @@ Here is all the information about my setup:
 | 📚 Entry                           	 | ✨ App                  |
 |----------------------------------------|--------------------------|
 | **Shell**                              | [pwsh](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_pwsh?view=powershell-7.4) [⚙️](https://github.com/Abderrahmane-jacker/My-config/tree/main/WindowsPowershell) |
-| **Shell Prompt**                       | [ohmyposh](https://ohmyposh.dev/) [⚙️]
+| **Shell Prompt**                       | [ohmyposh](https://ohmyposh.dev/) [⚙️](https://github.com/Abderrahmane-jacker/My-config/tree/main/ohmyposh)
 | **System Fetch**                       | [fastfetch](https://github.com/fastfetch-cli/fastfetch) [⚙️](https://github.com/Abderrahmane-jacker/My-config/tree/main/fastfetch) |
  
 
